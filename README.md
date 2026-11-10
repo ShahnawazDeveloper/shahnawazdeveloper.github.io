@@ -1,41 +1,29 @@
-# Senior Mobile Engineer Portfolio
+# Shahnawaz Khan — Senior Mobile Engineer Portfolio
 
-A responsive, dark-themed personal portfolio built with plain HTML, CSS and JavaScript. No framework, build step, database or paid hosting is required.
+Responsive dark-themed portfolio built with plain HTML, CSS and JavaScript.
 
-## 1. Personalize it before publishing
+## Positioning
+Senior Mobile Engineer — Android & Flutter. The portfolio is Android-first for job applications, while retaining a separate Flutter resume for cross-platform opportunities.
 
-Open `index.html` and replace:
+## Personal details
+- Name: Shahnawaz Khan
+- Experience: 10+ years in mobile engineering
+- Email: shahnawaz.developer@gmail.com
+- LinkedIn: https://www.linkedin.com/in/shahnawaz-khan-er
+- GitHub: https://github.com/ShahnawazDeveloper
 
-- `[Your Name]` with your preferred professional name.
-- `YOUR_EMAIL@example.com` with your professional email.
-- `YOUR-LINKEDIN` with your LinkedIn profile slug.
-- `YOUR-GITHUB` with your GitHub username.
+## Resume downloads
+- Primary: `resume/Shahnawaz-Khan-Senior-Android-Engineer.pdf`
+- Alternate: `resume/Shahnawaz-Khan-Senior-Flutter-Engineer.pdf`
 
-Update the page title, role, skills, experience and project descriptions so every statement accurately reflects your experience. The current project descriptions are generalized examples based on the information supplied for this portfolio; add only details you are allowed to disclose.
+## Update the live website
+1. Extract this ZIP.
+2. Open https://github.com/ShahnawazDeveloper/shahnawaz.github.io
+3. Upload the contents of this folder to the repository root, replacing existing files.
+4. Commit to `main`.
+5. Confirm Settings → Pages uses branch `main` and folder `/ (root)`.
+6. GitHub Pages redeploys automatically.
 
-## 2. Add your photo and resume later
+Live site: https://shahnawazdeveloper.github.io/
 
-- Your photo can be added under `assets/` when ready. The current design intentionally uses a code/engineering visual instead of a headshot.
-- Add your PDF resume at `resume/resume.pdf`. Until you add it, the Resume link will not have a file to download.
-
-## 3. Preview on your computer
-
-Simply open `index.html` in a modern browser. No installation is required.
-
-## 4. Publish free with GitHub Pages
-
-1. Sign in at https://github.com/
-2. Create a **public** repository named exactly `YOUR-GITHUB-USERNAME.github.io`.
-3. Upload the contents of this folder (the files and folders inside it, not the outer folder itself).
-4. In the repository, open **Settings → Pages**.
-5. Under **Build and deployment**, choose **Deploy from a branch**.
-6. Choose branch `main` and folder `/ (root)`, then Save.
-7. Wait for GitHub Pages to publish. Your site will be at `https://YOUR-GITHUB-USERNAME.github.io`.
-
-Official guide: https://docs.github.com/en/pages/quickstart
-
-## Notes
-
-- Google Fonts are loaded from Google Fonts; the site still works with system fonts if the font service is unavailable.
-- This is a static site. Do not put passwords, API keys, private employer code, confidential screenshots or customer data in the repository.
-- A custom domain is optional and is not required for a free portfolio.
+Only publish project information and visuals you are authorized to share. Never commit confidential source code, customer data, passwords or API keys.
